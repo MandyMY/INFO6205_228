@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_11" class="java.beans.XMLDecoder"> 
+ <object class="GA.Question">
+  <void property="answer"> 
+   <string>2</string> 
+  </void> 
+  <void property="context"> 
+   <string>1+9=________。</string>
+  </void> 
+  <void property="difficulty"> 
+   <int>4</int> 
+  </void> 
+  <void property="identify"> 
+   <int>5</int> 
+  </void> 
+  <void property="score"> 
+   <int>4</int> 
+  </void> 
+  <void property="type"> 
+   <string>Blank</string>
+  </void> 
+ </object> 
+</java> 
